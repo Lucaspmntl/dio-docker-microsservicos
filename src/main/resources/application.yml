@@ -1,0 +1,16 @@
+spring:
+
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: dio-docker-microsservicos
+
+  datasource:
+    url: jdbc:mysql://db:3306/mydatabase?useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: Password123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
