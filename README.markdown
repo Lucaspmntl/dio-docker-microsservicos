@@ -24,8 +24,9 @@ Projeto desenvolvido para o bootcamp da DIO. Arquitetura simples de microsservi�
    ```
 
 3. Acesse no navegador: [http://localhost](http://localhost)
-![img.png](img.png)
-> **Observação:** Ao atualizar a página (F5), você verá o Nginx alternando entre os containers que tratam a requisição, demonstrando o balanceamento de carga.
+
+   ![img.png](img.png)
+   > **Observação:** Ao atualizar a página (F5), você verá o Nginx alternando entre os containers que tratam a requisição, demonstrando o balanceamento de carga.
 
 ## ⏹️ Como Parar
 
