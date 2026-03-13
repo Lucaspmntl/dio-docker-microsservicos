@@ -15,7 +15,7 @@ Projeto desenvolvido para o bootcamp da DIO. Arquitetura simples de microsservi�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/lucaspmntl/dio-docker-microservices.git
+   git clone https://github.com/Lucaspmntl/dio-docker-microsservicos.git
    ```
 
 2. Na pasta raiz, execute:
@@ -24,7 +24,7 @@ Projeto desenvolvido para o bootcamp da DIO. Arquitetura simples de microsservi�
    ```
 
 3. Acesse no navegador: [http://localhost](http://localhost)
-
+![img.png](img.png)
 > **Observação:** Ao atualizar a página (F5), você verá o Nginx alternando entre os containers que tratam a requisição, demonstrando o balanceamento de carga.
 
 ## ⏹️ Como Parar
