@@ -11,7 +11,7 @@ Projeto desenvolvido para o bootcamp da DIO. Arquitetura simples de microsservi�
 
 
 ## ▶️ Como Executar
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 1. Clone o repositório:
    ```bash
